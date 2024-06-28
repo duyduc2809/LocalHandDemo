@@ -11,7 +11,13 @@ val PurpleGrey40 = Color(0xFF625b71)
 val Pink40 = Color(0xFF7D5260)
 val backgroundColor = Color(0xFF1F1E1E)
 val neutral700 = Color(0xFF818181)
+val neutral500 = Color(0xFFA9A9A9)
 val neutralWhite = Color(0xFFFFFFFF)
+
 val promary = Color(0xFF4B9CD3)
 val promaryHover = Color(0xFF25648F)
+
+
+// OutlineTextField
+val neutralBlack = Color(0xFF2D2D2D)
 
